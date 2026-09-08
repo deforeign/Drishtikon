@@ -1,5 +1,5 @@
 
-# 🦯 Drishtikon – ML-Powered Navigation for the Visually Impaired
+# 🦯 Drishtikon – AI-Powered Navigation for the Visually Impaired
 
 > **"Bringing light to the unseen."**
 
@@ -9,7 +9,7 @@ Drishtikon is a wearable AI-based navigation system designed to empower visually
 
 ## 🚀 Project Overview
 
-**Drishtikon** is an assistive tech solution that leverages AI, computer vision, and real-time feedback to bridge the gap between visual impairment and independent mobility. It was developed as part of **Init to Winit - Hack for Impact** at **E-Summit 2025, IIIT Delhi**.
+**Drishtikon** is an assistive tech solution that leverages AI, computer vision, and real-time feedback to bridge the gap between visual impairment and independent mobility. It was developed as part of **Init to Winit - Hack for Impact** at **E-Summit 2025, IIIT Delhi and HackByte, IIIT Jabalpur 2026**.
 
 ### 👁️ Problem
 
@@ -118,7 +118,7 @@ Projected **7.8% CAGR** growth in assistive tech market.
 
 ## 👥 Team
 
-- Abhinav Tadiparthi  
+- Ayush Kumar Mishra
 - Ankit Singh  
 - Soumyajeet Ghatak  
 - Nitesh Kumar  
